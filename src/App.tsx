@@ -96,7 +96,7 @@ const content = {
 // Configuration des images et liens (facilement modifiable)
 const config = {
   images: {
-    saveMe: '/newpic',
+    saveMe: '/newpic.png',
     eventImage: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800'
   },
   links: {
